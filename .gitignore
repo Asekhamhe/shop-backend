@@ -1,0 +1,4 @@
+node_modules/
+src/.env
+deploy.sh
+yarn-error.log
